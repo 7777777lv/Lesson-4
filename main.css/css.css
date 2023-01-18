@@ -1,0 +1,54 @@
+.code {
+    background-color: rgb(40,42,53);
+    text-align: center;
+    line-height: 80px;
+    font-size: 25px;
+    word-spacing: 20px;;
+}
+.code a {
+    text-decoration: none;
+    color: white;
+}
+.btn1 {
+    height: 50px;
+    font-size: 18px;
+    background-color: #04aa6d;
+    color: #ffffff;
+    border-color: #04aa6d;
+    width: 150px;
+    border-radius: 50px;
+
+} 
+.btn2 {
+    float: right !important;
+    height: 50px;
+    font-size: 18px;
+    background-color: #04aa6d;
+    color: #ffffff;
+    border-color: #04aa6d;
+    width: 150px;
+    border-radius: 50px;
+}
+.about {
+    background-color: rgb(217, 238, 225);  
+}
+.about p {
+    line-height: 40px;
+    text-indent: 20px;
+    font-size: 16px;
+}
+.btnn1 {
+    height: 50px;
+    font-size: 18px;
+    background-color: #04aa6d;
+    color: white;
+    border-color: #04aa6d;
+    width: 200px;
+    border-radius: 50px;
+}
+.mvx {
+    text-indent: 20px;
+}
+.mvx p {
+    font-size: 17px;
+}
